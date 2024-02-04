@@ -1,1 +1,1 @@
-black jack game
+black jack game using javasccript
