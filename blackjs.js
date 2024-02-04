@@ -58,32 +58,7 @@ disable()
      
     if (isAlive = true){}
    enable()}
-    /*  let firstCard = getRandom()
-   let secondCard =  getRandom()
-   cards = [firstCard , secondCard]
-   sum = firstCard + secondCard  
-   console.log(cards)
-   console.log(sum)
-      cardsEL.textContent = "CARDS : " 
-      for (let i = 0; i<cards.length ; i++){
-         cardsEL.textContent += cards[i] + "  "
-      }
-   
-
-      sums.innerHTML = "SUM : " + sum
-    if (sum === 21){
-      message ="WOOH ! You'have got BLACKJACKET "
-      hasBlackJack = true;
-    } else if( sum < 21){
-       message = "DO you want to draw a new card ? "
-    } else {
-     message = "You are out of the game !"
-        isAlive = false
-    }
-        massageEl.innerHTML = message
-     console.log(hasBlackJack)
-     console.log(isAlive)}
-     disable()*/
+    
     
 
     let btnn = document.querySelector("#btn")
