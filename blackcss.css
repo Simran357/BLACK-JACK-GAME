@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+font-family:'Gill Sans','Trebuchet MS';
+font-weight: bold;
+color:#bec7e4;
+}
+
+body{
+    padding:40px;
+    background-image: url("poker.jpg");
+text-align:center;
+height:85vh;
+width:90%;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.container{
+    background-color:rgb(51, 48, 48,0.7);
+    overflow: hidden;
+    border-radius:50px;
+    box-shadow: -5px 5px 35px 13px whitesmoke;
+      width:50vh;
+    height:60vh;
+display: flex;
+flex-direction:column;
+justify-content:space-around;
+align-items: center;
+padding:20px;
+margin:auto;}
+
+#btn{
+    padding:8px;
+    color:#e1dffff6;
+background-color:#8787dd;
+border-radius:5px;
+border:none;
+font-size: 15px;
+}
+
+#btn1{
+    padding:8px;
+    color:#e1dffff6;
+background-color:#8787dd;
+border-radius:5px;
+border:none;
+font-size: 15px;
+}
+h1{
+    color:#b5b5f0;
+font-weight: 400px;
+}
